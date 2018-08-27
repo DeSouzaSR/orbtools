@@ -19,8 +19,8 @@ def main():
     print(a2p(a))
 
     print("convert  p = 1.0000001650000045")
-    a = 1.0000001650000045 # au
-    print(p2a(a))
+    p = 1.0000001650000045 # a
+    print(p2a(p))
 
 
 if __name__ == '__main__':
